@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html style="font-size: 16px;">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="Мои&nbsp; &nbsp;хобби">
+    <meta name="description" content="">
+    <meta name="page_type" content="np-template-header-footer-from-plugin">
+    <title>Хобби</title>
+       <link rel="stylesheet" href="stili.css" media="screen">
+<link rel="stylesheet" href="главная.css" media="screen">
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="stili.js" defer=""></script>
+   
+    
+    
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+    
+    
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "",
+		"sameAs": [
+				"https://vk.com/theisevasya",
+				"https://c.tenor.com/jUMex_rdqPwAAAAd/among-us-twerk.gif"
+		]
+}</script>
+    <meta name="theme-color" content="#478ac9">
+    <meta property="og:title" content="Хобби">
+    <meta property="og:type" content="website">
+  </head>
+  <body class="u-body u-xl-mode"> 
+    <section class="u-clearfix u-image u-shading u-section-1" id="sec-a4e6" data-image-width="3000" data-image-height="1688">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <h1 class="u-custom-font u-text u-text-white u-text-1">Мои<br>&nbsp; &nbsp;хобби<br>
+          <br>
+        </h1>
+        <img class="u-image u-image-default u-image-1" src="images/pngwing.com2.png" alt="" data-image-width="768" data-image-height="1024">
+        <p class="u-custom-font u-text u-text-white u-text-2"> Мне нравится пробовать себя во всём. у меня есть один минус... Не усидчивость. Иногда сложно делать что-то на протяжении длительного времени... Именно по этой причине у меня так много хобби.&nbsp;</p>
+        <img class="u-image u-image-default u-image-2" src="images/pngwing.com12.png" alt="" data-image-width="1518" data-image-height="1600">
+        <div class="u-list u-list-1">
+          <div class="u-repeater u-repeater-1">
+            <div class="u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-valign-top-xs u-container-layout-1">
+                <a href="Обо-мне.html" data-page-id="816528526" class="u-border-7 u-border-hover-palette-5-light-1 u-border-white u-btn u-btn-round u-button-style u-custom-font u-custom-item u-hover-palette-5-light-1 u-none u-radius-50 u-text-white u-btn-1">Обо мне<br>
+                </a>
+              </div>
+            </div>
+            <div class="u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-valign-top-xs u-container-layout-2">
+                <a href="Арт-и-3D.html" data-page-id="1124524839" class="u-border-7 u-border-hover-palette-5-light-1 u-border-white u-btn u-btn-round u-button-style u-custom-font u-custom-item u-hover-palette-5-light-1 u-none u-radius-50 u-text-white u-btn-2">&nbsp;Арт и 3D</a>
+              </div>
+            </div>
+            <div class="u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-valign-top-xs u-container-layout-3">
+                <a href="Фото.html" data-page-id="199321293" class="u-border-7 u-border-hover-palette-5-light-1 u-border-white u-btn u-btn-round u-button-style u-custom-font u-custom-item u-hover-palette-5-light-1 u-none u-radius-50 u-text-white u-btn-3">&nbsp; Фото&nbsp; &nbsp;</a>
+              </div>
+            </div>
+            <div class="u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-valign-top-xs u-container-layout-4">
+                <a href="Игры.html" data-page-id="86859993" class="u-border-7 u-border-hover-palette-5-light-1 u-border-white u-btn u-btn-round u-button-style u-custom-font u-custom-item u-hover-palette-5-light-1 u-none u-radius-50 u-text-white u-btn-4">&nbsp; &nbsp;ИГры&nbsp; &nbsp;</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    
+    
+    <footer class="u-clearfix u-custom-color-1 u-footer u-footer" id="sec-3468"><div class="u-clearfix u-sheet u-sheet-1">
+        <div class="u-align-left u-social-icons u-spacing-10 u-social-icons-1">
+          <a class="u-social-url" title="Vk" target="_blank" href="https://vk.com/theisevasya"><span class="u-file-icon u-icon u-social-facebook u-social-icon u-text-white u-icon-1"><img src="images/1.png" alt=""></span>
+          </a>
+          <a class="u-social-url" title="сюрприз" target="_blank" href="https://c.tenor.com/jUMex_rdqPwAAAAd/among-us-twerk.gif"><span class="u-file-icon u-icon u-social-icon u-social-twitter u-text-white u-icon-2"><img src="images/2.png" alt=""></span>
+          </a>
+        </div><span class="u-file-icon u-icon u-text-white u-icon-3"><img src="images/3.png" alt=""></span>
+        <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1" data-responsive-from="XL">
+          <div class="menu-collapse">
+            <a class="u-button-style u-nav-link u-text-white" href="#" style="padding: 9px 0px; font-size: calc(1em + 18px);">
+              <svg class="u-svg-link" viewBox="0 0 24 24"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-c17c"></use></svg>
+              <svg class="u-svg-content" version="1.1" id="svg-c17c" viewBox="0 0 16 16" x="0px" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"><g><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
+</g></svg>
+            </a>
+          </div>
+          <div class="u-custom-menu u-nav-container">
+            <ul class="u-nav u-unstyled"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="главная.html">главная</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Обо-мне.html">Обо мне</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Хобби.html">Хобби</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Арт-и-3D.html">Арт и 3D</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Фото.html">фото</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Галерея.html">Галерея</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Игры.html">Игры</a>
+</li></ul>
+          </div>
+          <div class="u-custom-menu u-nav-container-collapse">
+            <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+              <div class="u-inner-container-layout u-sidenav-overflow">
+                <div class="u-menu-close"></div>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="главная.html">главная</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Обо-мне.html">Обо мне</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Хобби.html">Хобби</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Арт-и-3D.html">Арт и 3D</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Фото.html">фото</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Галерея.html">Галерея</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Игры.html">Игры</a>
+</li></ul>
+              </div>
+            </div>
+            <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
+          </div>
+        </nav>
+      </div></footer>
+  </body>
+</html>

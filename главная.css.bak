@@ -1,0 +1,142 @@
+ .u-section-1 {
+  background-image: url("images/cd3217f7e4dfeaba0fe098b1c1bd3747.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 917px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 358px;
+  height: 698px;
+  margin: 90px -25px 0 auto;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 6.25rem;
+  background-image: none;
+  font-family: arborcasual;
+  font-weight: 700;
+  margin: -788px 225px 0 auto;
+}
+
+.u-section-1 .u-image-2 {
+  width: 570px;
+  height: 743px;
+  margin: -216px auto 0 -25px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  text-transform: uppercase;
+  font-size: 1.875rem;
+  letter-spacing: 1px;
+  font-weight: 700;
+  font-family: SlimamifBold;
+  margin: -433px 364px 60px auto;
+  padding: 13px 39px 14px 37px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1775px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 699px;
+    margin-top: 907px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -775px;
+    margin-right: auto;
+    margin-left: 100px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -1083px;
+    margin-left: 85px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 815px;
+    margin-right: -25px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-left: 210px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-left: 195px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1696px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 868px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 300px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 540px;
+    height: 704px;
+    margin-top: -1044px;
+    margin-left: 300px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 100vh;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 229px;
+    height: 406px;
+    margin-top: 207px;
+    margin-right: -87px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.125rem;
+    width: auto;
+    margin-top: -577px;
+    margin-right: -31px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 249px;
+    height: 324px;
+    margin-top: -46px;
+    margin-left: -50px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 11px;
+    margin-right: auto;
+    margin-left: 0;
+    padding: 6px 32px 7px 31px;
+  }
+}@font-face {
+  font-family: 'arborcasual';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/arborcasual.otf);
+}@font-face {
+  font-family: 'SlimamifBold';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/SlimamifBold.ttf);
+}

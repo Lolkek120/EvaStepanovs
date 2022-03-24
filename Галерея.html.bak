@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html style="font-size: 16px;">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="Галерея">
+    <meta name="description" content="">
+    <meta name="page_type" content="np-template-header-footer-from-plugin">
+    <title>Галерея</title>
+        <link rel="stylesheet" href="stili.css" media="screen">
+<link rel="stylesheet" href="главная.css" media="screen">
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="stili.js" defer=""></script>
+   
+    
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+    
+    
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "",
+		"sameAs": [
+				"https://vk.com/theisevasya",
+				"https://c.tenor.com/jUMex_rdqPwAAAAd/among-us-twerk.gif"
+		]
+}</script>
+    <meta name="theme-color" content="#478ac9">
+    <meta property="og:title" content="Галерея">
+    <meta property="og:type" content="website">
+  </head>
+  <body class="u-body u-xl-mode">
+    <section class="u-align-center u-clearfix u-section-1" id="sec-ddf1">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <a href="Фото.html" data-page-id="199321293" class="u-border-7 u-border-black u-border-hover-palette-5-light-1 u-btn u-btn-round u-button-style u-custom-font u-hover-palette-5-light-1 u-none u-radius-50 u-text-black u-btn-1">Назад</a>
+        <a href="Хобби.html" data-page-id="88757941" class="u-border-7 u-border-black u-border-hover-palette-5-light-1 u-btn u-btn-round u-button-style u-custom-font u-hover-palette-5-light-1 u-none u-radius-50 u-text-black u-btn-2">&nbsp;Хобби</a>
+        <h2 class="u-custom-font u-text u-text-1">Галерея</h2>
+        <div class="u-expanded-width u-gallery u-layout-grid u-lightbox u-show-text-on-hover u-gallery-1">
+          <div class="u-gallery-inner u-gallery-inner-1">
+            <div class="u-effect-fade u-gallery-item">
+              <div class="u-back-slide" data-image-width="1280" data-image-height="853">
+                <img class="u-back-image u-expanded" src="images/mcv7NBOiRjI.jpg">
+              </div>
+              <div class="u-over-slide u-shading u-over-slide-1">
+                <h3 class="u-gallery-heading"></h3>
+                <p class="u-gallery-text"></p>
+              </div>
+            </div>
+            <div class="u-effect-fade u-gallery-item">
+              <div class="u-back-slide" data-image-width="1280" data-image-height="960">
+                <img class="u-back-image u-expanded" src="images/cgu0aIL5Y84.jpg">
+              </div>
+              <div class="u-over-slide u-shading u-over-slide-2">
+                <h3 class="u-gallery-heading"></h3>
+                <p class="u-gallery-text"></p>
+              </div>
+            </div>
+            <div class="u-effect-fade u-gallery-item">
+              <div class="u-back-slide" data-image-width="1280" data-image-height="640">
+                <img class="u-back-image u-expanded" src="images/axJX27ym4f0.jpg">
+              </div>
+              <div class="u-over-slide u-shading u-over-slide-3">
+                <h3 class="u-gallery-heading"></h3>
+                <p class="u-gallery-text"></p>
+              </div>
+            </div>
+            <div class="u-effect-fade u-gallery-item">
+              <div class="u-back-slide" data-image-width="1280" data-image-height="853">
+                <img class="u-back-image u-expanded" src="images/yEGzoJQl63U.jpg">
+              </div>
+              <div class="u-over-slide u-shading u-over-slide-4">
+                <h3 class="u-gallery-heading"></h3>
+                <p class="u-gallery-text"></p>
+              </div>
+            </div>
+            <div class="u-effect-fade u-gallery-item">
+              <div class="u-back-slide" data-image-width="1280" data-image-height="853">
+                <img class="u-back-image u-expanded" src="images/RcRAz6L_eV0.jpg">
+              </div>
+              <div class="u-over-slide u-shading u-over-slide-5">
+                <h3 class="u-gallery-heading"></h3>
+                <p class="u-gallery-text"></p>
+              </div>
+            </div>
+            <div class="u-effect-fade u-gallery-item">
+              <div class="u-back-slide" data-image-width="1280" data-image-height="853">
+                <img class="u-back-image u-expanded" src="images/l7ttDRXrd7I.jpg">
+              </div>
+              <div class="u-over-slide u-shading u-over-slide-6">
+                <h3 class="u-gallery-heading"></h3>
+                <p class="u-gallery-text"></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    
+    
+    <footer class="u-clearfix u-custom-color-1 u-footer u-footer" id="sec-3468"><div class="u-clearfix u-sheet u-sheet-1">
+        <div class="u-align-left u-social-icons u-spacing-10 u-social-icons-1">
+          <a class="u-social-url" title="Vk" target="_blank" href="https://vk.com/theisevasya"><span class="u-file-icon u-icon u-social-facebook u-social-icon u-text-white u-icon-1"><img src="images/1.png" alt=""></span>
+          </a>
+          <a class="u-social-url" title="сюрприз" target="_blank" href="https://c.tenor.com/jUMex_rdqPwAAAAd/among-us-twerk.gif"><span class="u-file-icon u-icon u-social-icon u-social-twitter u-text-white u-icon-2"><img src="images/2.png" alt=""></span>
+          </a>
+        </div><span class="u-file-icon u-icon u-text-white u-icon-3"><img src="images/3.png" alt=""></span>
+        <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1" data-responsive-from="XL">
+          <div class="menu-collapse">
+            <a class="u-button-style u-nav-link u-text-white" href="#" style="padding: 9px 0px; font-size: calc(1em + 18px);">
+              <svg class="u-svg-link" viewBox="0 0 24 24"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-c17c"></use></svg>
+              <svg class="u-svg-content" version="1.1" id="svg-c17c" viewBox="0 0 16 16" x="0px" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"><g><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
+</g></svg>
+            </a>
+          </div>
+          <div class="u-custom-menu u-nav-container">
+            <ul class="u-nav u-unstyled"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="главная.html">главная</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Обо-мне.html">Обо мне</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Хобби.html">Хобби</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Арт-и-3D.html">Арт и 3D</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Фото.html">фото</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Галерея.html">Галерея</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Игры.html">Игры</a>
+</li></ul>
+          </div>
+          <div class="u-custom-menu u-nav-container-collapse">
+            <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+              <div class="u-inner-container-layout u-sidenav-overflow">
+                <div class="u-menu-close"></div>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="главная.html">главная</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Обо-мне.html">Обо мне</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Хобби.html">Хобби</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Арт-и-3D.html">Арт и 3D</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Фото.html">фото</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Галерея.html">Галерея</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Игры.html">Игры</a>
+</li></ul>
+              </div>
+            </div>
+            <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
+          </div>
+        </nav>
+      </div></footer>
+  </body>
+</html>

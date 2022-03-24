@@ -1,0 +1,215 @@
+ .u-section-1 {
+  background-image: url("images/1612803294_34-p-nezhno-goluboi-fon-akvarel-37_edited_edited.jpg");
+  background-position: 50% 50%;
+  min-height: 1056px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1.6875rem;
+  letter-spacing: normal;
+  font-family: Caveat;
+  margin: 267px 173px 0 573px;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: Slimamif;
+  font-weight: 700;
+  font-size: 2.5rem;
+  margin: 33px calc(((100% - 1140px) / 2) + 95px) 0 calc(((100% - 1140px) / 2) + 523px);
+}
+
+.u-section-1 .u-image-1 {
+  width: 570px;
+  height: 806px;
+  margin: -986px calc(((100% - 1140px) / 2) + -74px) 0 auto;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  text-transform: uppercase;
+  font-size: 1.875rem;
+  letter-spacing: 1px;
+  font-weight: 700;
+  font-family: SlimamifBold;
+  margin: 136px calc(((100% - 1140px) / 2) + 95px) 0 auto;
+  padding: 13px 39px 14px 37px;
+}
+
+.u-section-1 .u-text-3 {
+  font-family: arborcasual;
+  font-weight: 700;
+  font-size: 6rem;
+  margin: -829px auto 0 calc(((100% - 1140px) / 2) + 231px);
+}
+
+.u-section-1 .u-image-2 {
+  width: 486px;
+  height: 606px;
+  margin: -74px auto 0 0;
+}
+
+.u-section-1 .u-image-3 {
+  width: 175px;
+  height: 273px;
+  margin: -120px auto 0 calc(((100% - 1140px) / 2) + 348px);
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 905px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 73px;
+    margin-left: 473px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: calc(((100% - 940px) / 2));
+    margin-left: calc(((100% - 940px) / 2) + 418px);
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-right: calc(((100% - 940px) / 2) + -74px);
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 168px;
+    margin-right: calc(((100% - 940px) / 2));
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: -873px;
+    margin-left: calc(((100% - 940px) / 2) + 231px);
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-top: -318px;
+    margin-left: calc(((100% - 940px) / 2) + 348px);
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+    margin-left: 326px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: calc(((100% - 720px) / 2));
+    margin-left: calc(((100% - 720px) / 2) + 198px);
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-right: calc(((100% - 720px) / 2) + -74px);
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: calc(((100% - 720px) / 2));
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: calc(((100% - 720px) / 2) + 231px);
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-left: calc(((100% - 720px) / 2) + 348px);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-left: 146px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: calc(((100% - 540px) / 2));
+    margin-left: calc(((100% - 540px) / 2) + 18px);
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-right: calc(((100% - 540px) / 2) + -74px);
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: calc(((100% - 540px) / 2));
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: calc(((100% - 540px) / 2) + 173px);
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-left: calc(((100% - 540px) / 2) + 348px);
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 748px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.0625rem;
+    width: auto;
+    margin-top: 403px;
+    margin-right: calc(((100% - 340px) / 2) + -166px);
+    margin-left: calc(((100% - 340px) / 2) + 90px);
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.25rem;
+    width: auto;
+    margin-top: 8px;
+    margin-right: calc(((100% - 340px) / 2) + 31px);
+    margin-left: calc(((100% - 340px) / 2) + -31px);
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 481px;
+    margin-top: -761px;
+    margin-right: calc(((100% - 340px) / 2) + -82px);
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 288px;
+    margin-right: calc(((100% - 340px) / 2) + -15px);
+    padding: 2px 30px 3px 28px;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 3.125rem;
+    width: auto;
+    margin-top: -530px;
+    margin-right: calc(((100% - 340px) / 2) + -27px);
+    margin-left: calc(((100% - 340px) / 2) + 230px);
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 277px;
+    height: 346px;
+    margin-top: -250px;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-top: -144px;
+    margin-bottom: 60px;
+    margin-left: 0;
+  }
+}@font-face {
+  font-family: 'Slimamif';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Slimamif.ttf);
+}@font-face {
+  font-family: 'SlimamifBold';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/SlimamifBold.ttf);
+}@font-face {
+  font-family: 'arborcasual';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/arborcasual.otf);
+}

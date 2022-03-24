@@ -1,0 +1,177 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url("images/1619953273_14-phonoteka_org-p-fon-bumaga-akvarel-14.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 728px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 432px;
+  height: 734px;
+  margin: -15px 0 0 auto;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Caveat;
+  font-weight: 700;
+  font-size: 2.5rem;
+  margin: -563px 311px 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: arborcasual;
+  font-size: 6.25rem;
+  margin: -452px 867px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  text-transform: uppercase;
+  font-size: 1.875rem;
+  letter-spacing: 1px;
+  font-family: SlimamifBold;
+  font-weight: 700;
+  margin: 403px 432px 0 465px;
+  padding: 13px 39px 14px 37px;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: solid;
+  text-transform: uppercase;
+  font-size: 1.875rem;
+  letter-spacing: 1px;
+  font-family: SlimamifBold;
+  font-weight: 700;
+  margin: -89px auto 60px 211px;
+  padding: 13px 42px 14px 40px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 719px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 111px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -465px;
+    margin-right: 667px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 332px;
+    margin-left: 365px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 11px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 447px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 222px;
+    margin-left: 255px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 11993px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 11259px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -11507px;
+    margin-left: 300px;
+    margin-right: 300px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -11738px;
+    margin-right: 567px;
+    margin-left: 300px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 132px;
+    margin-left: 165px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: 20px;
+    margin-right: 132px;
+    margin-left: 165px;
+    margin-bottom: initial;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 11529px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 578px;
+    margin-top: 49px;
+    margin-right: -151px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+    width: auto;
+    margin-top: -493px;
+    margin-left: 9px;
+    margin-right: 9px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 3.75rem;
+    width: 160px;
+    margin-top: -532px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 500px;
+    margin-right: 0;
+    margin-left: auto;
+    padding: 5px 8px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin: -72px auto 60px 0;
+    padding: 5px 6px;
+  }
+}@font-face {
+  font-family: 'arborcasual';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/arborcasual.otf);
+}@font-face {
+  font-family: 'SlimamifBold';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/SlimamifBold.ttf);
+}

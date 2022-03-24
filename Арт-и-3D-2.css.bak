@@ -1,0 +1,200 @@
+ .u-section-1 {
+  background-image: url("images/1618585491_19-phonoteka_org-p-sirenevii-akvarelnii-fon-27.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 859px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 476px;
+  height: 577px;
+  margin: 60px 19px 0 auto;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: SlimamifBold;
+  font-weight: 700;
+  font-size: 2.5rem;
+  margin: -556px 507px 0 74px;
+}
+
+.u-section-1 .u-image-2 {
+  width: 412px;
+  height: 378px;
+  margin: -17px 333px 0 auto;
+}
+
+.u-section-1 .u-image-3 {
+  width: 168px;
+  height: 470px;
+  margin: -755px 373px 0 auto;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  text-transform: uppercase;
+  font-size: 1.875rem;
+  letter-spacing: 1px;
+  font-weight: 700;
+  font-family: SlimamifBold;
+  margin: -2px auto 0 0;
+  padding: 13px 39px 14px 37px;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: solid;
+  text-transform: uppercase;
+  font-size: 1.875rem;
+  letter-spacing: 1px;
+  font-family: SlimamifBold;
+  font-weight: 700;
+  margin: 14px auto 60px 135px;
+  padding: 13px 39px 14px 37px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1527px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 950px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -1386px;
+    margin-right: 381px;
+    margin-left: 52px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -250px;
+  }
+
+  .u-section-1 .u-image-3 {
+    height: 471px;
+    margin-top: 8px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: -350px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: 20px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1528px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 161px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-right: 308px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 20px;
+    margin-right: 373px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-right: 373px;
+    margin-left: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1591px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 1014px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -1414px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-right: 128px;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-top: -279px;
+    margin-right: 372px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 372px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-right: 372px;
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 100vh;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 247px;
+    height: 300px;
+    margin-top: 246px;
+    margin-right: -50px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.25rem;
+    width: auto;
+    margin-top: -503px;
+    margin-right: 66px;
+    margin-left: -14px;
+  }
+
+  .u-section-1 .u-image-2 {
+    height: 154px;
+    width: 168px;
+    margin-top: 237px;
+    margin-right: -50px;
+  }
+
+  .u-section-1 .u-image-3 {
+    width: 60px;
+    height: 202px;
+    margin-top: -228px;
+    margin-right: auto;
+    margin-left: -50px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: -233px;
+    margin-right: auto;
+    margin-left: 0;
+    padding: 0 5px 1px 3px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin: 30px auto 60px 0;
+    padding: 0 5px 0 3px;
+  }
+}@font-face {
+  font-family: 'SlimamifBold';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/SlimamifBold.ttf);
+}

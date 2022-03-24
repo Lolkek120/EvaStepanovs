@@ -1,0 +1,262 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 882px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin: 70px 0 25px;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 423px;
+  background-image: url("images/Howling_Abyss_Landscape.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-2 {
+  min-height: 210px;
+  background-image: url("images/ss_6ac16a708699a9d3d90359da2450cbc6b20e4e4c.1920x1080.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-1 .u-layout-cell-3 {
+  min-height: 374px;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: SlimamifBold;
+  font-size: 1.25rem;
+  margin: 0 31px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  text-transform: uppercase;
+  font-size: 1.875rem;
+  letter-spacing: 1px;
+  font-weight: 700;
+  font-family: SlimamifBold;
+  margin: -32px 0 0 auto;
+  padding: 13px 39px 14px 37px;
+}
+
+.u-section-1 .u-layout-cell-4 {
+  min-height: 338px;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 0 19px;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: arborcasual;
+  font-size: 6.25rem;
+  margin: -20px -1px 0 12px;
+}
+
+.u-section-1 .u-text-3 {
+  font-family: SlimamifBold;
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 8px 12px 0;
+}
+
+.u-section-1 .u-image-3 {
+  min-height: 210px;
+  background-image: url("images/3660400-8799259761-658ae.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-5 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-4 {
+  min-height: 423px;
+  background-image: url("images/080416_1035080401.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-6 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 100px;
+  }
+@media screen and (max-wight: 480px) {
+h1 {
+font-size:25px;
+}
+}
+  .u-section-1 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 349px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 173px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 308px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 6px;
+    margin-right: 6px;
+  }
+
+  .u-section-1 .u-layout-cell-4 {
+    min-height: 279px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 173px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 349px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-image-1 {
+    min-height: 535px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 265px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-layout-cell-4 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 265px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 535px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    min-height: 401px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 398px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 398px;
+  }
+
+  .u-section-1 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 401px;
+  }
+
+  .u-section-1 .u-container-layout-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    min-height: 252px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 251px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 259px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 0;
+    margin-right: -26px;
+    margin-bottom: -10px;
+    padding: 2px 27px 3px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 251px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 252px;
+  }
+}@font-face {
+  font-family: 'SlimamifBold';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/SlimamifBold.ttf);
+}@font-face {
+  font-family: 'arborcasual';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/arborcasual.otf);
+}

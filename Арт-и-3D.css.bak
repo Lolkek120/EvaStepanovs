@@ -1,0 +1,292 @@
+ .u-section-1 {
+  background-image: url("images/1618585491_19-phonoteka_org-p-sirenevii-akvarelnii-fon-27.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1191px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 6.25rem;
+  background-image: none;
+  font-family: arborcasual;
+  font-weight: 700;
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: Slimamif;
+  font-weight: 700;
+  font-size: 2.5rem;
+  margin: 17px 483px 0 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 464px;
+  height: 422px;
+  margin: -489px 13px 0 auto;
+}
+
+.u-section-1 .u-image-2 {
+  width: 338px;
+  height: 455px;
+  margin: -622px 247px 0 auto;
+}
+
+.u-section-1 .u-image-3 {
+  width: 570px;
+  height: 512px;
+  margin: 192px auto 0 -35px;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 2.5rem;
+  background-image: none;
+  font-family: Slimamif;
+  font-weight: 700;
+  margin: -447px -45px 0 570px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  text-transform: uppercase;
+  font-size: 1.875rem;
+  letter-spacing: 1px;
+  font-weight: 700;
+  font-family: SlimamifBold;
+  margin: 80px 52px 0 auto;
+  padding: 13px 39px 14px 37px;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: solid;
+  text-transform: uppercase;
+  font-size: 1.875rem;
+  letter-spacing: 1px;
+  font-family: SlimamifBold;
+  font-weight: 700;
+  margin: -89px 307px 54px auto;
+  padding: 13px 39px 14px 37px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 982px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 841px;
+    margin-left: 142px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: 142px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: 142px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -203px;
+    margin-right: 332px;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-top: 20px;
+    margin-right: 332px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 20px;
+    margin-right: 332px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 63px;
+    margin-right: 100px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: 20px;
+    margin-right: 100px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 752px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 7752px;
+    margin-left: 252px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -7774px;
+    margin-right: 274px;
+    margin-left: 252px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-right: 210px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: 5557px;
+    margin-right: auto;
+    margin-left: 360px;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-top: -5959px;
+    margin-left: 187px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 273px;
+    margin-left: 570px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 210px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-right: 210px;
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 711px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 19225px;
+    margin-left: 342px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -19567px;
+    margin-right: 300px;
+    margin-left: 342px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-right: 300px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-left: 300px;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-right: 202px;
+    margin-left: 300px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: -447px;
+    margin-right: 363px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 144px;
+    margin-right: 300px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-right: 300px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 100vh;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.125rem;
+    width: auto;
+    margin-top: 20px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.25rem;
+    width: auto;
+    margin-top: 7px;
+    margin-right: 71px;
+    margin-left: -17px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 156px;
+    height: 144px;
+    margin-top: -161px;
+    margin-right: -64px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 159px;
+    height: 249px;
+    margin-top: -378px;
+    margin-right: -64px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-image-3 {
+    width: 220px;
+    height: 197px;
+    margin-top: 121px;
+    margin-right: -64px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 1.25rem;
+    width: auto;
+    margin-top: -172px;
+    margin-right: 170px;
+    margin-left: -17px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: -52px;
+    margin-right: -28px;
+    padding: 0 3px 0 1px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: -33px;
+    margin-right: auto;
+    margin-left: 65px;
+    padding: 0 0 1px;
+  }
+}@font-face {
+  font-family: 'arborcasual';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/arborcasual.otf);
+}@font-face {
+  font-family: 'Slimamif';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Slimamif.ttf);
+}@font-face {
+  font-family: 'SlimamifBold';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/SlimamifBold.ttf);
+}
